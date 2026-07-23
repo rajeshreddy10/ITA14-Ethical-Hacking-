@@ -1,6 +1,6 @@
 # 🧪 B.Tech Lab Exercises
 
-This repository contains my "B.Tech laboratory exercises, programs, and practical files" organized semester-wise and subject-wise. It serves as a collection of my practical work completed during my undergraduate studies.
+This repository contains my "B.Tech laboratory exercises, programs, and practical files" . It serves as a collection of my practical work completed during this couse .
 
 > Note: This repository is for educational purposes only and is intended as a learning reference.
 
